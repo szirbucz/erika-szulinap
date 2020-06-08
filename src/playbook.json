@@ -1,0 +1,107 @@
+[
+    {
+        "type": "story",
+        "text": "Szia Cicám!\n\nEzzel a kis játékkal szeretnék neked kedveskedni születésnapod alkalmából, hogy akkor se unatkozz, amikor nem a Batman padodon lógsz.\n\nJátsszunk egy kicsit!"
+    },
+    {
+        "type": "question",
+        "image": "/nemzetimeki.jpg",
+        "question": "Hol találkoztunk először?",
+        "answers": [
+            "Oktogon",
+            "Hősök tere",
+            "Blaha",
+            "Deák tér"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/csulok.jpg",
+        "question": "Mit ettünk az első randin?",
+        "answers": [
+            "Csülköt",
+            "Pizzát",
+            "Salátát",
+            "Hamburgert"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/citadella.jpg",
+        "question": "Hány méter magas az a hegy, aminek megmászása közben először mondtad, hogy szeretsz?",
+        "answers": [
+            "235",
+            "131",
+            "512",
+            "1081"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/train.jpg",
+        "question": "Milyen közlekedési eszközön nem utaztunk még együtt?",
+        "answers": [
+            "Vonat",
+            "Busz",
+            "Repülő",
+            "Komp"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/plitvice.jpg",
+        "question": "Hova fogja elvinni Zénó az asszonyát, a fiát és a lányát?",
+        "answers": [
+            "Plitvicére",
+            "Rodoszra",
+            "Korcsolyázni",
+            "Békéscsabára"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/globe.png",
+        "question": "Hány országban jártunk együtt?",
+        "answers": [
+            "5",
+            "6",
+            "4",
+            "3"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/dachstein.jpg",
+        "question": "Mi volt a legmagasabb hely, ahol jártunk?",
+        "answers": [
+            "Dachstein",
+            "Groß-Ötscher",
+            "Everest",
+            "Badacsony"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/uh.jpg",
+        "question": "Milyen nevezetes nap előtt tudtuk meg Hanna érkezését?",
+        "answers": [
+            "Anyáknapja",
+            "Gyereknap",
+            "Húsvét",
+            "Pünkösd"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/ring.jpg",
+        "question": "Leszel az asszonyom?",
+        "answers": [
+            "Igen",
+            "Nem"
+        ]
+    },
+    {
+        "type": "story",
+        "image": "/koszoruslany.png"
+    }
+]
