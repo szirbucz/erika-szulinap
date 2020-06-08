@@ -23,7 +23,7 @@ export default function Story({text, image, onNext}) {
         <Container className="Question">
             <Row className="storyText">
                 <Col xs={12}>
-                    <Image src={"%PUBLIC_URL%" + image} fluid/>
+                    <Image src={process.env.PUBLIC_URL + image} fluid/>
                 </Col>
             </Row>
         </Container>

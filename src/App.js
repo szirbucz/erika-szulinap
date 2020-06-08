@@ -9,7 +9,7 @@ function App() {
       <Container>
       <Row>
           <Col xs={12}>
-            <Image src="%PUBLIC_URL%/szulinap.png" fluid />
+            <Image src={process.env.PUBLIC_URL + "/szulinap.png"} fluid />
           </Col>
         </Row>
         <Row>
