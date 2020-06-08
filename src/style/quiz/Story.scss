@@ -1,0 +1,12 @@
+.storyButton, .storyText {
+    text-align: center;
+    width: auto;
+    display: block;
+    button{
+        max-width: 200px;
+    }
+
+    p {
+        white-space: pre-wrap;
+    }
+}
