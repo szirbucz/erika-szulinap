@@ -39,14 +39,14 @@ export default function Question({ ...props }) {
         <Container className="Question">
             <Row>
                 <Col xs={6}>
-                    <Image src={props.image} fluid roundedCircle className="question-image"/>
+                    <Image src={"%PUBLIC_URL%" + props.image} fluid roundedCircle className="question-image"/>
                     <p>{props.question}</p>
                 </Col>
                 <Col xs={6}>
                     {convertedAnswers}
                 </Col>
             </Row>
-            <Image src="hanna.png" fluid className={["error", error ? "active" : "inactive"]}/>
+            <Image src="%PUBLIC_URL%/hanna.png" fluid className={["error", error ? "active" : "inactive"]}/>
         </Container>
     );
 }
