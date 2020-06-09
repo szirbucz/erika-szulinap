@@ -8,8 +8,11 @@ export default function Question({ ...props }) {
 
     let question, convertedAnswers;
 
+    let nemnem  = new Audio(process.env.PUBLIC_URL + "/nemnem.mp3")
+
     const wrongAnswer = () => {
         setError(true);
+        nemnem.play()
         console.log(error);
         window.setTimeout(() => {setError(false)}, 1000);
     }
