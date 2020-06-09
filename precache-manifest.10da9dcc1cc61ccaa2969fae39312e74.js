@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec12d52f41b7d8a7502bf77f32cce421",
+    "revision": "8b16453d4bac8ad5539b1ddcb8f85246",
     "url": "/erika-szulinap/index.html"
   },
   {
-    "revision": "a1872bfda26b6f7526c5",
-    "url": "/erika-szulinap/static/css/main.56853e63.chunk.css"
+    "revision": "55d2888be733511c70ad",
+    "url": "/erika-szulinap/static/css/main.6ded5b32.chunk.css"
   },
   {
     "revision": "50ca7981738ccb13bff2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/erika-szulinap/static/js/2.0195fe87.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1872bfda26b6f7526c5",
-    "url": "/erika-szulinap/static/js/main.9a551c2f.chunk.js"
+    "revision": "55d2888be733511c70ad",
+    "url": "/erika-szulinap/static/js/main.6f6fe65e.chunk.js"
   },
   {
     "revision": "b6f0d70f81e105ee9f37",
