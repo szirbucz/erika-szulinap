@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/erika-szulinap/static/css/main.ec41b309.chunk.css",
-    "main.js": "/erika-szulinap/static/js/main.6487e3c6.chunk.js",
-    "main.js.map": "/erika-szulinap/static/js/main.6487e3c6.chunk.js.map",
+    "main.css": "/erika-szulinap/static/css/main.56853e63.chunk.css",
+    "main.js": "/erika-szulinap/static/js/main.9a551c2f.chunk.js",
+    "main.js.map": "/erika-szulinap/static/js/main.9a551c2f.chunk.js.map",
     "runtime-main.js": "/erika-szulinap/static/js/runtime-main.ea4734a1.js",
     "runtime-main.js.map": "/erika-szulinap/static/js/runtime-main.ea4734a1.js.map",
     "static/js/2.0195fe87.chunk.js": "/erika-szulinap/static/js/2.0195fe87.chunk.js",
     "static/js/2.0195fe87.chunk.js.map": "/erika-szulinap/static/js/2.0195fe87.chunk.js.map",
     "index.html": "/erika-szulinap/index.html",
-    "precache-manifest.76abad8a022203c921bf56a7e27e1148.js": "/erika-szulinap/precache-manifest.76abad8a022203c921bf56a7e27e1148.js",
+    "precache-manifest.4fbfbc3e660c03de9423057022e1637f.js": "/erika-szulinap/precache-manifest.4fbfbc3e660c03de9423057022e1637f.js",
     "service-worker.js": "/erika-szulinap/service-worker.js",
-    "static/css/main.ec41b309.chunk.css.map": "/erika-szulinap/static/css/main.ec41b309.chunk.css.map",
+    "static/css/main.56853e63.chunk.css.map": "/erika-szulinap/static/css/main.56853e63.chunk.css.map",
     "static/js/2.0195fe87.chunk.js.LICENSE.txt": "/erika-szulinap/static/js/2.0195fe87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea4734a1.js",
     "static/js/2.0195fe87.chunk.js",
-    "static/css/main.ec41b309.chunk.css",
-    "static/js/main.6487e3c6.chunk.js"
+    "static/css/main.56853e63.chunk.css",
+    "static/js/main.9a551c2f.chunk.js"
   ]
 }
