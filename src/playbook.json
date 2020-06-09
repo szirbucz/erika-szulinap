@@ -5,6 +5,17 @@
     },
     {
         "type": "question",
+        "image": "/centi.jpg",
+        "question": "Hány évig laktál a Centin?",
+        "answers": [
+            "29",
+            "28",
+            "30",
+            "31"
+        ]
+    },
+    {
+        "type": "question",
         "image": "/pecsi.jpg",
         "question": "Kinek az ölében vártál Ancsira a színitanházban?",
         "answers": [
@@ -12,6 +23,50 @@
             "Halász Judit",
             "Pogány Judit",
             "Psota Irén"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/miku.jpg",
+        "question": "Miért sírtál Mikuláskor?",
+        "answers": [
+            "Virgácsot kaptam",
+            "Nem ízlett a csoki",
+            "Féltem a Mikulástól",
+            "Nem kaptam Kindert"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/kartya.jpg",
+        "question": "Mit játszottatok gyerekkorodban Karácsonykor, amiben te voltál a rizikófaktor?",
+        "answers": [
+            "Snapszert",
+            "UNO-t",
+            "Kanasztát",
+            "Ultit"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/cezar.jpg",
+        "question": "Miről írtad a biosz vizsgadolgozatodat?",
+        "answers": [
+            "Cézár tanításáról",
+            "A küszök ívásáról",
+            "A tevék depressziójáról",
+            "A macskák látásáról"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/tinder.jpg",
+        "question": "Hány mondat után kellett szerelmesnek lenned belém?",
+        "answers": [
+            "3",
+            "1",
+            "5",
+            "2"
         ]
     },
     {
@@ -39,12 +94,12 @@
     {
         "type": "question",
         "image": "/citadella.jpg",
-        "question": "Hány méter magas az a hegy, aminek megmászása közben először mondtad, hogy szeretsz?",
+        "question": "Milyen magas az a hegy, aminek megmászása közben először mondtad, hogy szeretsz?",
         "answers": [
-            "235",
-            "131",
-            "512",
-            "1081"
+            "235 m",
+            "131 m",
+            "512 m",
+            "1081 m"
         ]
     },
     {
@@ -60,6 +115,39 @@
     },
     {
         "type": "question",
+        "image": "/zeno.jpg",
+        "question": "Mikor kaptam a Kafa becenevet?",
+        "answers": [
+            "2015 Karácsony",
+            "2016 Gyereknap",
+            "2015 Mikulás",
+            "2016 Húsvét"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/christmas.jpg",
+        "question": "Mit kaptál első Karácsonyra tőlem?",
+        "answers": [
+            "Prágai utat",
+            "Kabátot",
+            "Botmixert",
+            "Cipőt"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/galamb.jpg",
+        "question": "Mi volt a galambok neve Prágában?",
+        "answers": [
+            "Rómeó és Júlia",
+            "Bonie és Clyde",
+            "Chip és Dale",
+            "Jancsi és Juliska"
+        ]
+    },
+    {
+        "type": "question",
         "image": "/plitvice.jpg",
         "question": "Hova fogja elvinni Zénó az asszonyát, a fiát és a lányát?",
         "answers": [
@@ -67,6 +155,17 @@
             "Rodoszra",
             "Korcsolyázni",
             "Békéscsabára"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/matyas.jpg",
+        "question": "Melyik város \"himnusza\" a \"Magyar urak jőnek Buda városába...\"?",
+        "answers": [
+            "Visegrád",
+            "Egerszalók",
+            "Budapest",
+            "Újszász"
         ]
     },
     {
@@ -89,6 +188,17 @@
             "Torockó",
             "Nika",
             "Menta Terasz"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/rodosz.jpg",
+        "question": "Milyen messze van a legtávolabbi nyaralásunk helyszíne?",
+        "answers": [
+            "1283 km",
+            "1095 km",
+            "2392 km",
+            "784 km"
         ]
     },
     {
@@ -130,9 +240,20 @@
         "question": "Mit kért Zénó Hannával kapcsolatban, amikor megszületik?",
         "answers": [
             "Ő foghassa először",
-            "Ő választhassa ki a nevét",
+            "Ő nevezhesse el",
             "Adhasson neki puszit",
             "Tolhassa babakocsiban"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/math.jpg",
+        "question": "Hány prímtényezője van a 34-nek?",
+        "answers": [
+            "2",
+            "1",
+            "3",
+            "4"
         ]
     },
     {
@@ -151,10 +272,10 @@
         "image": "/4d.jpg",
         "question": "Miért kértem bocsánatot a 4D ultrahangon?",
         "answers": [
-            "A nagy fejem miatt",
-            "Miattam késtünk",
-            "Kiöntöttem a vizem",
-            "Nem volt nálam KP"
+            "A nagy fejed miatt",
+            "Miattad késtünk",
+            "Kiöntötted a vized",
+            "Nem volt nálad KP"
         ]
     },
     {
@@ -177,6 +298,28 @@
             "Anya",
             "Apa",
             "Ámpa"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/naptar.jpg",
+        "question": "Hány évesek leszünk ketten együtt, amikor Hanna fele olyan idős lesz, mint Zénó?",
+        "answers": [
+            "78",
+            "79",
+            "68",
+            "69"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/dodo.jpg",
+        "question": "Milyen állatok Bibi és Dodo?",
+        "answers": [
+            "va-va",
+            "áp-áp",
+            "tyip-tyip",
+            "boo"
         ]
     },
     {

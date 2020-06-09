@@ -19,6 +19,8 @@ export default function Story({text, image, onNext}) {
         </Container>
     )
 
+    let song  = new Audio(process.env.PUBLIC_URL + "/final.mp3")
+    song.play();
     return (
         <Container className="Question">
             <Row className="storyText">
