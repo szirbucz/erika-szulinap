@@ -5,6 +5,17 @@
     },
     {
         "type": "question",
+        "image": "/pecsi.jpg",
+        "question": "Kinek az ölében vártál Ancsira a színitanházban?",
+        "answers": [
+            "Pécsi Ildikó",
+            "Halász Judit",
+            "Pogány Judit",
+            "Psota Irén"
+        ]
+    },
+    {
+        "type": "question",
         "image": "/nemzetimeki.jpg",
         "question": "Hol találkoztunk először?",
         "answers": [
@@ -60,6 +71,39 @@
     },
     {
         "type": "question",
+        "image": "/mail.jpg",
+        "question": "Mennyivel nőtt az irányítószámunk, amikor Békéscsabára költöztünk?",
+        "answers": [
+            "4452",
+            "4552",
+            "4467",
+            "4567"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/etterem.jpg",
+        "question": "Melyik étteremben voltunk először Étteremhéten?",
+        "answers": [
+            "Princessin",
+            "Torockó",
+            "Nika",
+            "Menta Terasz"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/birka.jpg",
+        "question": "Hogy hívták a birkámat?",
+        "answers": [
+            "Józsi",
+            "Jancsi",
+            "Pista",
+            "Géza"
+        ]
+    },
+    {
+        "type": "question",
         "image": "/globe.png",
         "question": "Hány országban jártunk együtt?",
         "answers": [
@@ -67,6 +111,28 @@
             "6",
             "4",
             "3"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/uh.jpg",
+        "question": "Milyen nevezetes nap előtt tudtuk meg Hanna érkezését?",
+        "answers": [
+            "Anyáknapja",
+            "Gyereknap",
+            "Húsvét",
+            "Pünkösd"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/zenohanna.jpg",
+        "question": "Mit kért Zénó Hannával kapcsolatban, amikor megszületik?",
+        "answers": [
+            "Ő foghassa először",
+            "Ő választhassa ki a nevét",
+            "Adhasson neki puszit",
+            "Tolhassa babakocsiban"
         ]
     },
     {
@@ -82,13 +148,46 @@
     },
     {
         "type": "question",
-        "image": "/uh.jpg",
-        "question": "Milyen nevezetes nap előtt tudtuk meg Hanna érkezését?",
+        "image": "/4d.jpg",
+        "question": "Miért kértem bocsánatot a 4D ultrahangon?",
         "answers": [
-            "Anyáknapja",
-            "Gyereknap",
-            "Húsvét",
-            "Pünkösd"
+            "A nagy fejem miatt",
+            "Miattam késtünk",
+            "Kiöntöttem a vizem",
+            "Nem volt nálam KP"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/hannaszulet.jpg",
+        "question": "Milyen súllyal született Hanna?",
+        "answers": [
+            "3600 g",
+            "3800 g",
+            "3500 g",
+            "3400 g"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/hannanem.jpg",
+        "question": "Mi volt Hanna első szava?",
+        "answers": [
+            "NEM",
+            "Anya",
+            "Apa",
+            "Ámpa"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/menny.jpg",
+        "question": "Kik laknak a Mennyországban?",
+        "answers": [
+            "Menyasszonyok",
+            "Angyalok",
+            "Menyétek",
+            "Mormonok"
         ]
     },
     {

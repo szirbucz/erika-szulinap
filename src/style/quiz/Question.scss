@@ -43,7 +43,8 @@
 
     Button {
         border-color: #fff;
-        width: 80%;
+        min-width: 80%;
+        max-width: 100%;
         overflow-wrap: break-word;
         margin-bottom: 10px;
         margin-top: 10px;
