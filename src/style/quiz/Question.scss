@@ -56,6 +56,10 @@
             font-weight: bold;
         }
 
+        &:focus {
+            box-shadow: none;
+        }
+
         &.answer_right:not(:disabled):active,&.answer_right:not(:disabled):visited {
             background-color: #1c2;
             border-color: #263;

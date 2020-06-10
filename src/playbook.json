@@ -27,6 +27,17 @@
     },
     {
         "type": "question",
+        "image": "/tojas.jpg",
+        "question": "Milyen formában szeretted a tojást kiskorodban?",
+        "answers": [
+            "Padlóra kenve",
+            "Rántottának",
+            "Tükörtojásnak",
+            "Főve"
+        ]
+    },
+    {
+        "type": "question",
         "image": "/miku.jpg",
         "question": "Miért sírtál Mikuláskor?",
         "answers": [
@@ -305,7 +316,7 @@
         "image": "/naptar.jpg",
         "question": "Hány évesek leszünk ketten együtt, amikor Hanna fele olyan idős lesz, mint Zénó?",
         "answers": [
-            "78",
+            "77",
             "79",
             "68",
             "69"
@@ -320,6 +331,28 @@
             "áp-áp",
             "tyip-tyip",
             "boo"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/hat.jpg",
+        "question": "Milyen a hátad?",
+        "answers": [
+            "Csontos",
+            "Husis",
+            "Izmos",
+            "Pöttyös"
+        ]
+    },
+    {
+        "type": "question",
+        "image": "/furdo.jpg",
+        "question": "Milyen fürdős állatja nincs Hannának?",
+        "answers": [
+            "Csikóhal",
+            "Delfin",
+            "Pingvin",
+            "Tintahal"
         ]
     },
     {
