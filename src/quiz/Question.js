@@ -14,7 +14,7 @@ export default function Question({ ...props }) {
         setError(true);
         nemnem.play()
         console.log(error);
-        window.setTimeout(() => {setError(false)}, 10000);
+        window.setTimeout(() => {setError(false)}, 1000);
     }
 
     const giveAnswer = (index) => ((index === 0) ? () => window.setTimeout(props.onRightAnswer, 500) : wrongAnswer);
