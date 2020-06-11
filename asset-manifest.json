@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/erika-szulinap/static/css/main.9f9b5457.chunk.css",
-    "main.js": "/erika-szulinap/static/js/main.c2c6ba36.chunk.js",
-    "main.js.map": "/erika-szulinap/static/js/main.c2c6ba36.chunk.js.map",
+    "main.js": "/erika-szulinap/static/js/main.5440b450.chunk.js",
+    "main.js.map": "/erika-szulinap/static/js/main.5440b450.chunk.js.map",
     "runtime-main.js": "/erika-szulinap/static/js/runtime-main.ea4734a1.js",
     "runtime-main.js.map": "/erika-szulinap/static/js/runtime-main.ea4734a1.js.map",
     "static/js/2.0195fe87.chunk.js": "/erika-szulinap/static/js/2.0195fe87.chunk.js",
     "static/js/2.0195fe87.chunk.js.map": "/erika-szulinap/static/js/2.0195fe87.chunk.js.map",
     "index.html": "/erika-szulinap/index.html",
-    "precache-manifest.04b29bd3feebc031cc3267ad4dbb5a35.js": "/erika-szulinap/precache-manifest.04b29bd3feebc031cc3267ad4dbb5a35.js",
+    "precache-manifest.c3ac2ef9e469204e25216002a128d706.js": "/erika-szulinap/precache-manifest.c3ac2ef9e469204e25216002a128d706.js",
     "service-worker.js": "/erika-szulinap/service-worker.js",
     "static/css/main.9f9b5457.chunk.css.map": "/erika-szulinap/static/css/main.9f9b5457.chunk.css.map",
     "static/js/2.0195fe87.chunk.js.LICENSE.txt": "/erika-szulinap/static/js/2.0195fe87.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ea4734a1.js",
     "static/js/2.0195fe87.chunk.js",
     "static/css/main.9f9b5457.chunk.css",
-    "static/js/main.c2c6ba36.chunk.js"
+    "static/js/main.5440b450.chunk.js"
   ]
 }
